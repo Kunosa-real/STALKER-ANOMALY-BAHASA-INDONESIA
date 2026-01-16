@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+  <string id="st_anabiotic_combat">
+      <text>Tidak aman untuk mengambil anabiotik dengan musuh di dekatnya</text>
+  </string>
+
+   <string id="st_psy_death_scene">
+      <text>Anda telah lolos dari nasib yang lebih buruk dari kematian...</text>
+  </string>
+
+  <string id="st_psy_zombification_scene">
+      <text>Anda diberi kesempatan kedua oleh Zona...</text>
+  </string>
+</string_table>
